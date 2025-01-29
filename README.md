@@ -63,7 +63,7 @@ If an invalid route is requested, the API returns:
 
 Deployment
 The app is deployed at:
-https://public-api-lvu5.onrender.com/api/hng12
+https://public-api-oibz.onrender.com
 
 Backlinks
 Backlinks to:
